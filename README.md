@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [les1]: `https://github.com/Oigen181/werg/commit/078aa86a25e9d2d8ea0e403abae8a809826730d6`
+1. `https://github.com/Oigen181/werg/commit/078aa86a25e9d2d8ea0e403abae8a809826730d6`
 
 
 ---
@@ -35,7 +35,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [les2]: `(https://github.com/Oigen181/werg/commit/f240feaa1a5728c89837218d481050b30561c68f)`
+1. `https://github.com/Oigen181/werg/commit/f240feaa1a5728c89837218d481050b30561c68f`
 
 
 ---
@@ -44,5 +44,5 @@
 
 `Приведите ответ в свободной форме........`
 
-1. [les3]: `(https://github.com/Oigen181/werg/network)`
+1. `https://github.com/Oigen181/werg/network`
 
