@@ -26,8 +26,8 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `078aa86a25e9d2d8ea0e403abae8a809826730d6`
-2. `<https://github.com/Oigen181/werg/blob/main/README.md>`
+1. `[078aa86a25e9d2d8ea0e403abae8a809826730d6]`
+2. `[https://github.com/Oigen181/werg/blob/main/README.md]`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
@@ -51,7 +51,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `<https://github.com/Oigen181/werg/blob/main/README.md>`
+1. `[https://github.com/Oigen181/werg/blob/main/README.md]`
 
 
 ---
@@ -60,5 +60,5 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `<https://github.com/Oigen181/werg/network>`
+1. `[https://github.com/Oigen181/werg/network]`
 
