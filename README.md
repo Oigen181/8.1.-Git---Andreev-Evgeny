@@ -26,7 +26,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `https://github.com/Oigen181/werg/commit/078aa86a25e9d2d8ea0e403abae8a809826730d6`
+1. (https://github.com/Oigen181/werg/commit/078aa86a25e9d2d8ea0e403abae8a809826730d6)
 
 
 ---
