@@ -35,7 +35,7 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `https://github.com/Oigen181/werg/commit/f240feaa1a5728c89837218d481050b30561c68f`
+1. (https://github.com/Oigen181/werg/commit/f240feaa1a5728c89837218d481050b30561c68f)
 
 
 ---
@@ -44,5 +44,5 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `https://github.com/Oigen181/werg/network`
+1. (https://github.com/Oigen181/werg/network)
 
